@@ -4,8 +4,8 @@
 **Appliance Energy Consumption Analyzer & Predictor**
 
 ## Students (Team Members)
-- **Tianyi Lu** — *(email: fill in)*
-- **Kuo Yu** — *(email: fill in)*
+- **Tianyi Lu** — XY0079
+- **Kuo Yu** 
 
 ## Problem Description
 This project analyzes and forecasts household/appliance electricity consumption using Python. It loads the UCI “Individual household electric power consumption” dataset (or a compatible CSV), aggregates energy usage (daily/monthly), visualizes trends, and performs a simple linear forecast for upcoming days.
