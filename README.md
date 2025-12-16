@@ -5,7 +5,7 @@
 
 ## Students (Team Members)
 - **Tianyi Lu** — XY0079
-- **Kuo Yu** 
+- **Kuo Yu** -- yukuo31415-web
 
 ## Problem Description
 This project analyzes and forecasts household/appliance electricity consumption using Python. It loads the UCI “Individual household electric power consumption” dataset (or a compatible CSV), aggregates energy usage (daily/monthly), visualizes trends, and performs a simple linear forecast for upcoming days.
